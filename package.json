@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp-bot-complete",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp modulaire avec dizaines de commandes et architecture extensible",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.0",
+    "@whiskeysockets/baileys": "^6.7.0",
+    "pino": "^9.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
